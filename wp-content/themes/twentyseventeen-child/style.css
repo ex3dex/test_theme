@@ -1,0 +1,23 @@
+/*
+ Theme Name:   Twenty Seventeen Child
+ Theme URI:    ""
+ Description:  Child theme for Beetroot Test task
+ Author:       Michael Malashevych
+ Author URI:   ""
+ Template:     twentyseventeen
+ Version:      1.0.0
+ Text Domain:  twenty-sewenteen-theme
+*/
+.event_in_popup {
+	display: block;
+}
+.remodal_wrapper {
+	margin-bottom: 10px;
+}
+#top-menu li:last-child {
+	float: right;
+}
+div.custom_login {
+	display: inline-block;
+	margin: 30px 0;
+}
